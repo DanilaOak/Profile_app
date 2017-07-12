@@ -1,0 +1,13 @@
+{% extends 'profile_app/base.html' %}
+{% block content %}
+    {% if user.username %}
+        <h2>Your Profile</h2>
+        {%  for key, value in user.profile.to_dict.items %}
+            {% if value %}
+                <p><b>{{ key }}</b> -{{ value }} </p>
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        <p>Please <a href="{% url 'login' %}">Log In</a> or create <a href="{% url 'signup' %}">New User</a></p>
+    {% endif %}
+{% endblock content %}S
