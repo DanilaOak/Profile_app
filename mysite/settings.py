@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'profile_app.middleware.BenchmarkMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',

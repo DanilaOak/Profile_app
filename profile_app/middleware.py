@@ -1,15 +1,14 @@
-def simple_middleware(get_response):
-    # One-time configuration and initialization.
+from datetime import datetime
 
-    def middleware(request):
-        # Code to be executed for each request before
-        # the view (and later middleware) are called.
 
-        response = get_response(request)
+class BenchmarkMiddleware(object):
+    def __init__(self, get_response):
+        self.get_response = get_response
 
-        # Code to be executed for each request/response after
-        # the view is called.
-
+    def __call__(self, request):
+        time_start = datetime.now()
+        response = self.get_response(request)
+        response_time = datetime.now() - time_start
+        with open('requests.log', 'a') as file:
+            file.write("Request - {} Execution time - {}\n".format(response, response_time))
         return response
-
-    return middleware
