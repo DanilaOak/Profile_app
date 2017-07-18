@@ -38,3 +38,13 @@ def create_user_profile(sender, instance, created, **kwargs):
 @receiver(post_save, sender=User)
 def save_user_profile(sender, instance, **kwargs):
     instance.profile.save()
+
+
+class ProfileChange(models.Model):
+    # user = models.ForeignKey(User, on_delete=models.CASCADE)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
+    change_ip = models.CharField(max_length=20)
+    change_date = models.DateTimeField()
+
+    def __str__(self):
+        return "Profile = {}, IP = {}, DATE = {}".format(self.profile, self.change_ip, self.change_date)
