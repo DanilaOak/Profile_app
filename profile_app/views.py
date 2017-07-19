@@ -4,6 +4,7 @@ from .forms import UserForm, ProfileForm
 from django.contrib.auth.decorators import login_required
 from .models import Profile, ProfileChange
 from datetime import datetime
+from .utils import get_client_ip
 
 
 def home(request):
@@ -29,15 +30,6 @@ def signup(request):
     return render(request, 'profile_app/signup.html', {'form': form})
 
 
-def get_client_ip(request):
-    x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
-    if x_forwarded_for:
-        ip = x_forwarded_for.split(',')[0]
-    else:
-        ip = request.META.get('REMOTE_ADDR')
-    return ip
-
-
 @login_required()
 def profile_edit(request):
     profile = Profile.objects.get(user=request.user)
@@ -47,10 +39,15 @@ def profile_edit(request):
             ProfileChange.objects.create(
                 profile=profile,
                 change_ip=get_client_ip(request),
-                change_date=datetime.now(),
             )
             form.save()
             return redirect('home')
+        else:
+            form = ProfileForm(instance=profile)
+            return render(
+                request,
+                'profile_app/profile_edit.html',
+                {'form': form, "object": request.user, 'massage': 'Not valid Phone Number'})
     else:
         form = ProfileForm(instance=profile)
         return render(request, 'profile_app/profile_edit.html', {'form': form, "object": request.user})

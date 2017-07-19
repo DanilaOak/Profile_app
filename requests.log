@@ -33,3 +33,268 @@ Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Executi
 Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.423426
 Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.018047
 Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.058157
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:03.524112
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005013
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.034374
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.179273
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.072109
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.728836
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.017044
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.055944
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.315456
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.016069
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.152392
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/"> Execution time - 0:00:00.001007
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.167701
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/"> Execution time - 0:00:00.993955
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022058
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.248555
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.010026
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.125811
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.018047
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.047126
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.008058
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.165920
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011064
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.690459
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.008047
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.029113
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.502089
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.009023
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.134191
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011026
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/"> Execution time - 0:00:00.001001
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.018077
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/"> Execution time - 0:00:00.701389
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.040135
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.047124
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.008021
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.047159
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.009024
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.054174
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.111714
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/"> Execution time - 0:00:00.003042
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.024065
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.050167
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007019
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.058187
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.006016
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.052140
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.018047
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.050165
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007018
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.056148
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007019
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.050133
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.049130
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007019
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.047151
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.006017
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010026
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.166239
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.013063
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.672011
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.015042
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.024065
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.503870
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022087
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.154726
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/"> Execution time - 0:00:00.001002
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.017043
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/"> Execution time - 0:00:00.746048
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.031083
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.052169
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.010026
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.051134
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.011029
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.088233
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022058
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.009023
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.021057
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.029077
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005015
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.031117
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.007019
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.046124
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.003008
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.047124
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.003004
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022060
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.021093
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.009025
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.293467
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011060
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.580049
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.009025
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.020052
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.050131
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005002
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.023058
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005047
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.057106
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005983
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022060
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004008
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.044131
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005015
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022060
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004012
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.134299
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.006016
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.035107
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:02.767838
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.048126
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005013
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.113299
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.431231
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.031079
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.026104
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.036133
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004007
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.118346
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.051135
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.006002
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.046120
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005012
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.034089
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.003037
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.046121
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004010
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.041144
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005027
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:02.049640
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.033089
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.023050
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.040141
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005013
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.370040
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.015040
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.024101
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.458161
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.009025
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.038135
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.038102
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004012
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.048124
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005022
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.051168
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.317108
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011028
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022092
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011029
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010026
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.177399
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010062
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.755288
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.021056
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.156651
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.013034
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.052175
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.052138
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.712997
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.011066
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.023062
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.341250
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.017044
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010026
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022057
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.199803
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/"> Execution time - 0:00:00.011028
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.089236
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/"> Execution time - 0:00:00.727551
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.033085
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.076199
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.014029
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.044132
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.012032
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.084222
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022088
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.061158
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007018
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.025065
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.057181
+Request - <HttpResponse status_code=200, "text/javascript"> Execution time - 0:00:00.007018
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.019049
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.008051
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.213426
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.005041
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.018048
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.018078
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.037085
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.818352
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.051502
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.023063
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:02.443065
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.022040
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.180823
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004009
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.140365
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.501608
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.025098
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.066177
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.131133
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.102277
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005012
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.058154
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.079208
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.057180
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.091242
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005013
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.056143
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.086229
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.009013
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.052161
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.084261
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.061161
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.429142
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004010
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.247985
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/"> Execution time - 0:00:00.419030
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.037100
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.062165
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.056150
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.090227
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.083222
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.054124
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.063159
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.063167
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.096289
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.007017
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.088234
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.064164
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.119309
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.083205
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004020
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.082219
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.006021
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.095242
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004009
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.072188
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005015
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.062202
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.004010
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.066206
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.006005
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.077234
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.003004
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.062169
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.005017
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.083223
+Request - <HttpResponseNotFound status_code=404, "text/html"> Execution time - 0:00:00.006046
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010026
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.063197
+Request - <HttpResponse status_code=500, "text/html"> Execution time - 0:00:00.053170
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010059
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.010026
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.087231
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.073180
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.024064
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.064191
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.068178
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.081216
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.067178
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.075229
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.061161
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.175651
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.019051
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8"> Execution time - 0:00:00.006015
