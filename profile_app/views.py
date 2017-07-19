@@ -3,7 +3,6 @@ from django.shortcuts import render, redirect
 from .forms import UserForm, ProfileForm
 from django.contrib.auth.decorators import login_required
 from .models import Profile, ProfileChange
-from datetime import datetime
 from .utils import get_client_ip
 
 
