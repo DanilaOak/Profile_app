@@ -1,5 +1,6 @@
 {% extends 'profile_app/base.html' %}
 {% block content %}
+    {% load app_tags %}
     {% if user.username %}
         <h2>Your Profile</h2>
         {%  for key, value in user.profile.to_dict.items %}
@@ -7,6 +8,7 @@
                 <p><b>{{ key }}</b> -{{ value }} </p>
             {% endif %}
         {% endfor %}
+        {% edit_list request%}
     {% else %}
         <h2>Welcome</h2>
         <p>Please <a href="{% url 'login' %}">Log In</a> or create <a href="{% url 'signup' %}">New User</a></p>
