@@ -1,8 +1,9 @@
 from django.db import models
 from django.contrib.auth.models import User
-from django.db.models.signals import post_save
+from django.db.models.signals import post_save, post_delete, pre_save
 from django.dispatch import receiver
 from phonenumber_field.modelfields import PhoneNumberField
+from datetime import datetime
 
 
 class Profile(models.Model):
@@ -32,12 +33,36 @@ class Profile(models.Model):
 @receiver(post_save, sender=User)
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
+        with open('signals.log', 'a') as file:
+            file.write("Profile is created: Time - {}. User Name - {}\n".format(
+                datetime.now(),
+                instance.username)
+            )
         Profile.objects.create(user=instance)
 
 
 @receiver(post_save, sender=User)
 def save_user_profile(sender, instance, **kwargs):
     instance.profile.save()
+
+
+@receiver(pre_save, sender=Profile)
+def edit_user_profile(sender, instance, **kwargs):
+    with open('signals.log', 'a') as file:
+        file.write("Profile is edited: Time - {}. User Name - {}\n".format(
+            datetime.now(),
+            instance,
+        ))
+
+
+@receiver(post_delete, sender=User)
+def delete_user_profile(sender, instance, **kwargs):
+    with open('signals.log', 'a') as file:
+        file.write("Profile is deleted: Time - {}. User Name - {}\n".format(
+            datetime.now(),
+            instance,
+
+        ))
 
 
 class ProfileChange(models.Model):
