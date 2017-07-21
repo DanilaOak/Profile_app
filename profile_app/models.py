@@ -34,10 +34,10 @@ class Profile(models.Model):
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
         with open('signals.log', 'a') as file:
-            file.write("Profile is created: Time - {}. User Name - {}\n".format(
+            file.write("Profile is created: Time - {}. User Name - {}. User IP - {}\n".format(
                 datetime.now(),
-                instance.username)
-            )
+                instance.username,
+            ))
         Profile.objects.create(user=instance)
 
 
