@@ -1,7 +1,10 @@
 # Django Profile_app which include:
 1. Create django project.
+
 -Use some tool to deploy development environment (e.g. virtualenv)
+
 -Create profile app (first name, last name, data of birth, biography, contacts).
+
 -Add front page, where you'll show your profile data (use fixtures).
 
 ##2. Add authentication for this page.
